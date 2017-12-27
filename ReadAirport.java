@@ -1,24 +1,6 @@
 package airportdatabaseupdate;
 
 /**
- * (c) Copyright 2015 Flight Display Systems
- *
- *    FLIGHT DISPLAY SYSTEMS PROPRIETARY INFORMATION - ALL RIGHTS RESERVED
- *
- * -----------------------------------------------------------------------
- *
- *    This software is supplied under the terms of a license agreement or
- *    non-disclosure agreement with Flight Display Systems and may not be copied or
- *    disclosed except in accordance with the terms of that agreement.
- *
- *    This software may not be copied, transmitted, provided to or otherwise made
- *    available to any other person, company, corporation or other entity except as
- *    specified in the terms of said license.
- *
- *    This copyright notice may not be removed or altered without the prior written
- *    permission of Flight Display Systems.
- *
- *
  *    @filename ReadAirport.java
  *
  *    @description Class to read in airport and rule files and append time zone
